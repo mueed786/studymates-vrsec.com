@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center; 
+}
+#image{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+   
+}
+

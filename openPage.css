@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+}
+#logo2{
+    height: 10cm;
+    width: 25cm;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
+.center{
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+}

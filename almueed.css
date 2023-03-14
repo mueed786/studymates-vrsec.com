@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+#image2{
+    height: 15cm;
+    width: 10cm;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.main{
+    text-align: center;
+}
